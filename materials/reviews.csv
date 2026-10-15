@@ -1,0 +1,179 @@
+﻿id,object,date_display,time_group,screening,exclusion_reason,visit_type,source_access,partial_extract,reported_repeat,topic_candidates,source_url,locator,text_fingerprint
+KIV-001,Кивач,"February 16, 2025",R,K,,S,page,False,U,"N,F,H,A",https://yandex.com/maps/org/kivach/243085162466/reviews/,"МАРИНА ЕГОРОВА; February 16, 2025",01f51ee61c6db15b
+KIV-002,Кивач,March 26,D,K,,S,page,False,SELF,"H,A,R",https://yandex.com/maps/org/kivach/243085162466/reviews/,Ли; March 26,8df585c99b8462c3
+KIV-003,Кивач,"March 13, 2025",R,K,,S,page,False,U,"F,H,I",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Евгения; March 13, 2025",b13c67a86bf253b1
+KIV-004,Кивач,"October 3, 2024",H,K,,S,page,False,U,"N,C,F,H,A,T",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Андрей Симонов; October 3, 2024",54be15dc4062d846
+KIV-005,Кивач,"June 18, 2025",R,K,,S,page,False,U,"F,A",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Инкогнито 5398; June 18, 2025",c9c0abe46d09559a
+KIV-006,Кивач,"July 26, 2024",H,K,,S,page,False,U,"N,C,F,H,T",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Строй Материалы; July 26, 2024",35d91597101560b3
+KIV-007,Кивач,"December 13, 2024",R,K,,S,page,False,U,"F,A,P,T",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Елена Волкова; December 13, 2024",d6ce75242f217813
+KIV-008,Кивач,"November 18, 2025",R,K,,S,page,False,U,P,https://yandex.com/maps/org/kivach/243085162466/reviews/,"Алексей С.; November 18, 2025",ed46ca284efa84ef
+KIV-009,Кивач,"October 12, 2024",H,K,,S,page,False,U,"F,H,A",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Алена А.; October 12, 2024",9bda4e9f123cbec7
+KIV-010,Кивач,"April 23, 2025",R,K,,S,page,False,U,"C,H,A",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Артём Нощик; April 23, 2025",251a66e7f164de37
+KIV-011,Кивач,"October 5, 2023",H,X,Близкий повтор KIV-004 с другой датой и мелкими изменениями,S,page,False,U,"C,F,H,A,T",https://yandex.com/maps/org/kivach/243085162466/reviews/,"AsSimon; October 5, 2023",8d820037a8c6fd96
+KIV-012,Кивач,"August 23, 2024",H,K,,S,page,False,U,H,https://yandex.com/maps/org/kivach/243085162466/reviews/,"Екатерина Громко; August 23, 2024",f2ab1c61bcef1062
+KIV-013,Кивач,"April 21, 2025",R,K,,S,page,False,U,,https://yandex.com/maps/org/kivach/243085162466/reviews/,"Ярослав Вяткин; April 21, 2025",e1d764030e8754bb
+KIV-014,Кивач,"July 25, 2024",H,K,,S,page,False,U,"C,F,H",https://yandex.com/maps/org/kivach/243085162466/reviews/,"игорь зисличкис; July 25, 2024",1bb2e2723070c963
+KIV-015,Кивач,"May 25, 2025",R,K,,S,page,False,U,"N,T",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Иван Кузнецов; May 25, 2025",4da0574265922a43
+KIV-016,Кивач,"March 28, 2024",H,K,,S,page,False,U,"C,F,H,T",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Tselenko; March 28, 2024",199cafe2ef5fe263
+KIV-017,Кивач,"June 29, 2023",H,K,,S,page,False,U,"C,F,H,A",https://yandex.com/maps/org/kivach/243085162466/reviews/,"николай шевченко; June 29, 2023",9d24a4477a2d35c1
+KIV-018,Кивач,"October 12, 2024",H,K,,S,page,False,U,"N,C,F,P",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Ксения; October 12, 2024",45f40cd64a76f251
+KIV-019,Кивач,"September 27, 2024",H,K,,S,page,False,U,"N,F,H",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Татьяна Челышева; September 27, 2024",a0655936d653606b
+KIV-020,Кивач,"July 20, 2024",H,K,,S,page,False,SELF,"C,F,H,A,P,T,R",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Anna Andreeva; July 20, 2024",fff485e89525c949
+KIV-021,Кивач,"March 14, 2025",R,K,,S,page,False,U,,https://yandex.com/maps/org/kivach/243085162466/reviews/,"а з; March 14, 2025",8b9ec559968c5ab9
+KIV-022,Кивач,"August 19, 2022",H,K,,S,page,False,U,"N,C",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Ховик Айвазян; August 19, 2022",caf0bf78d684697b
+KIV-023,Кивач,"April 27, 2022",H,K,,S,page,False,U,"H,A",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Евгений Разуменко; April 27, 2022",ef417b072880c1c1
+KIV-024,Кивач,"February 5, 2022",H,K,,S,page,False,U,"C,F,H,A,P",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Татьяна Захарова; February 5, 2022",6b5bb5ad030c4983
+KIV-025,Кивач,"March 6, 2023",H,K,,S,page,False,U,"C,F,H,I",https://yandex.com/maps/org/kivach/243085162466/reviews/,"myAstat; March 6, 2023",d6f6d700033ecad9
+KIV-026,Кивач,"November 2, 2023",H,K,,S,page,False,U,F,https://yandex.com/maps/org/kivach/243085162466/reviews/,"Сергей Смирнов; November 2, 2023",81961aae54518458
+KIV-027,Кивач,"January 23, 2024",H,K,,S,page,False,SELF,R,https://yandex.com/maps/org/kivach/243085162466/reviews/,"Борисович; January 23, 2024",404ae7f87dbd56fe
+KIV-028,Кивач,"July 21, 2024",H,K,,S,page,False,U,"C,F,H",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Инкогнито 3949; July 21, 2024",b64c97adadfaecb8
+KIV-029,Кивач,"May 3, 2024",H,K,,S,page,False,U,"P,T",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Ирина Берман; May 3, 2024",d0dbe5d4100407e0
+KIV-030,Кивач,"January 6, 2024",H,K,,S,page,False,U,H,https://yandex.com/maps/org/kivach/243085162466/reviews/,"Инкогнито 0015; January 6, 2024",a4195f8460861148
+KIV-031,Кивач,"March 29, 2023",H,X,Хирургическое посещение; другая задача клиента,OTHER,page,False,U,"C,F,H",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Sash Лазарева; March 29, 2023",bca2e1d3ea0963e9
+KIV-032,Кивач,"October 7, 2023",H,K,,S,page,False,U,,https://yandex.com/maps/org/kivach/243085162466/reviews/,"Галина Ярославская; October 7, 2023",a379d5591282eb08
+KIV-033,Кивач,"November 21, 2021",H,K,,S,page,False,U,"C,F,H",https://yandex.com/maps/org/kivach/243085162466/reviews/,"Наталья Ермакова; November 21, 2021",65191fb2b9f318f0
+LUK-001,Лукино,April 6,D,K,,S,page,False,U,"N,C,F,H,A,I",https://yandex.com/maps/org/lukino/239081450131/reviews/,Марина Тимофеева; April 6,7bbd3d59c4801cca
+LUK-002,Лукино,August 16,D,K,,S,page,False,U,"N,C,F,H,A,P,T",https://yandex.com/maps/org/lukino/239081450131/reviews/,Ольга; August 16,bc5ebcba258a86c5
+LUK-003,Лукино,April 1,D,K,,S,page,False,SELF,"N,C,F,H,A,P,T,R",https://yandex.com/maps/org/lukino/239081450131/reviews/,Marina; April 1,93e7869554063cd5
+LUK-004,Лукино,May 17,D,K,,S,page,False,U,"C,F,A,I",https://yandex.com/maps/org/lukino/239081450131/reviews/,ДоЛуныИобратно; May 17,dc3b1560a4e1c5f8
+LUK-005,Лукино,July 22,D,K,,S,page,False,U,"N,C,F,A,I",https://yandex.com/maps/org/lukino/239081450131/reviews/,Нина; July 22,477b3da6a1c2af11
+LUK-006,Лукино,July 16,D,K,,S,page,False,U,"C,F,H,A",https://yandex.com/maps/org/lukino/239081450131/reviews/,Ирина Бокарева; July 16,75cd0b5152b03570
+LUK-007,Лукино,July 5,D,K,,S,page,False,U,"C,F,H,A,T,R",https://yandex.com/maps/org/lukino/239081450131/reviews/,Мария Кузнецова; July 5,ec1862a8f884acf6
+LUK-008,Лукино,August 15,D,K,,S,page,False,U,"C,F,H,A",https://yandex.com/maps/org/lukino/239081450131/reviews/,Мария Воронина; August 15,58a071362a26424b
+LUK-009,Лукино,June 20,D,K,,DAY,page,False,U,"F,A,I",https://yandex.com/maps/org/lukino/239081450131/reviews/,Денис Юрченко; June 20,91195099eca70997
+LUK-010,Лукино,June 21,D,K,,DAY,page,False,OTHER,"C,F,A,R",https://yandex.com/maps/org/lukino/239081450131/reviews/,Елена Сидоренко; June 21,44629ee54296e205
+LUK-011,Лукино,July 31,D,K,,S,page,False,U,"N,C,F,H,T",https://yandex.com/maps/org/lukino/239081450131/reviews/,Mihail Anatolichev; July 31,1979aa8dd72a0d46
+LUK-012,Лукино,May 7,D,K,,S,page,False,U,"F,A",https://yandex.com/maps/org/lukino/239081450131/reviews/,Екатерина Тюрина; May 7,8e1e798cbbf62376
+LUK-013,Лукино,August 23,D,K,,S,page,False,U,"N,C,F,H,A,T",https://yandex.com/maps/org/lukino/239081450131/reviews/,Алексей У.; August 23,b5603677430f4825
+LUK-014,Лукино,September 15,D,K,,S,page,False,SELF,"N,C,F,H,A,R,I",https://yandex.com/maps/org/lukino/239081450131/reviews/,Татьяна М.; September 15,5e46e6775b101110
+LUK-015,Лукино,July 15,D,K,,S,page,False,U,"N,C,F,A,T",https://yandex.com/maps/org/lukino/239081450131/reviews/,Наталья И.; July 15,b93607f23ff448ee
+LUK-016,Лукино,"August 4, 2025",R,K,,S,page,False,U,"N,C,F,H,A",https://yandex.com/maps/org/lukino/239081450131/reviews/,"Alice St; August 4, 2025",aa71aa8bc4b68d7a
+LUK-017,Лукино,"August 27, 2025",R,K,,S,page,False,U,"C,F,H,A",https://yandex.com/maps/org/lukino/239081450131/reviews/,"Ирина Г.; August 27, 2025",0376490575278399
+LUK-018,Лукино,August 29,D,K,,S,page,False,U,"N,C,F,H,A,P",https://yandex.com/maps/org/lukino/239081450131/reviews/,Натали Киреевская; August 29,283b294fcc8de1dc
+LUK-019,Лукино,"April 5, 2025",R,K,,S,page,False,U,"C,F,H,A,P",https://yandex.com/maps/org/lukino/239081450131/reviews/,"Катерина Т.; April 5, 2025",fae53a159440c973
+LUK-020,Лукино,"September 17, 2025",R,K,,S,page,False,U,"C,F,H,A,T,I",https://yandex.com/maps/org/lukino/239081450131/reviews/,"Ксюшка Минаева; September 17, 2025",2a84acd8a17f46ad
+LUK-021,Лукино,"June 2, 2025",R,K,,S,page,False,U,"C,F,H,A,P,T",https://yandex.com/maps/org/lukino/239081450131/reviews/,"Иринка Т.; June 2, 2025",bf5a5dd3acedc39e
+LUK-022,Лукино,"August 4, 2025",R,K,,S,page,False,U,"N,C,F,H,A",https://yandex.com/maps/org/lukino/239081450131/reviews/,"Вера М.; August 4, 2025",53f8d159d6a538da
+LUK-023,Лукино,"August 3, 2025",R,K,,S,page,False,U,"N,F,A",https://yandex.com/maps/org/lukino/239081450131/reviews/,"Валентина Воробьёва; August 3, 2025",dd1adc772b26f23d
+XCL-001,X-Clinic,"August 5, 2025",R,K,,S,page,False,U,"N,C,F",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Byebye6666; August 5, 2025",7ff8877f4b141a06
+XCL-002,X-Clinic,June 13,D,K,,DAY,page,False,U,H,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,Анастасия Л; June 13,d08a37aea409fdd9
+XCL-003,X-Clinic,"July 19, 2025",R,K,,S,page,False,SELF,"N,C,F,A,R",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Alla Г.; July 19, 2025",23bc58e26ec57ab6
+XCL-004,X-Clinic,January 16,D,K,,DAY,page,False,U,"N,C",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,Ирина Попутникова; January 16,b4fded8c3f95c285
+XCL-005,X-Clinic,"December 18, 2024",R,K,,S,page,False,U,"C,F,A,I",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Екатерина Т.; December 18, 2024",6c474024211f8ff4
+XCL-006,X-Clinic,July 29,D,K,,DAY,page,False,U,"N,H",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,Olga R.; July 29,f588144f0f824259
+XCL-007,X-Clinic,"May 22, 2025",R,K,,DAY,page,False,U,,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Елена Бокатюк; May 22, 2025",974409c582f46120
+XCL-008,X-Clinic,"August 11, 2025",R,K,,S,page,False,U,"N,C",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Алексей Уваров; August 11, 2025",5e7c967b6d59951d
+XCL-009,X-Clinic,"August 22, 2025",R,K,,DAY,page,False,U,"N,C,P",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Юлия; August 22, 2025",adb1b87ca26b0b88
+XCL-010,X-Clinic,July 19,D,K,,DAY,page,False,U,C,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,Юлия; July 19,90fc439db331493d
+XCL-011,X-Clinic,July 13,D,K,,DAY,page,False,U,C,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,Профессор; July 13,93cbf7fbae7d9179
+XCL-012,X-Clinic,"October 23, 2025",R,K,,DAY,page,False,U,C,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Денис; October 23, 2025",b24f0643c8f80655
+XCL-013,X-Clinic,"November 3, 2024",R,K,,DAY,page,False,U,"C,H,R",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Валентина Поздеева; November 3, 2024",2c4f8dbfd763df48
+XCL-014,X-Clinic,"September 7, 2023",H,K,,S,page,True,SELF,"H,A,T,R",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Александр Н.; September 7, 2023",57812834386d44d9
+XCL-015,X-Clinic,"September 3, 2025",R,K,,S,page,False,U,"C,F,H,A",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Наталья Шорина; September 3, 2025",6eb09b28927f94b4
+XCL-016,X-Clinic,"May 30, 2024",H,K,,DAY,page,False,U,"C,P",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Ваша Маша вещает; May 30, 2024",875ffc033bdd2f59
+XCL-017,X-Clinic,"July 23, 2024",H,K,,S,page,False,U,"N,C,F,H",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Ольга Родина; July 23, 2024",d83dd509e24dd26b
+XCL-018,X-Clinic,"December 2, 2024",R,K,,S,page,False,U,"C,F,A",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Ирина; December 2, 2024",a6062cabff60abba
+XCL-019,X-Clinic,"February 5, 2025",R,K,,OTHER,page,False,U,,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Татьяна М.; February 5, 2025",3eaa61d6ee0c346a
+XCL-020,X-Clinic,"July 26, 2025",R,K,,DAY,page,False,SELF,"C,H,P,T,R",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Наталья; July 26, 2025",76793cb655b50ef6
+XCL-021,X-Clinic,"May 18, 2022",H,K,,S,page,False,U,"C,I",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Анна Лебедева; May 18, 2022",4811509be51cc3f6
+XCL-022,X-Clinic,"August 29, 2024",H,K,,S,page,False,U,"F,H",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Светлана; August 29, 2024",764baaab90d52ced
+XCL-023,X-Clinic,"September 17, 2024",H,X,Отдельная услуга педикюра; другая задача клиента,OTHER,page,False,U,I,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Лена Горчакова; September 17, 2024",9518bcab81d0ade8
+XCL-024,X-Clinic,"August 1, 2023",H,K,,DAY,page,False,U,"N,C,P,T",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Maria Arnaut; August 1, 2023",2879e30c4d6ce383
+XCL-025,X-Clinic,"November 28, 2025",R,K,,S,page,False,U,P,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Павел Романов; November 28, 2025",2cfa80032550d352
+XCL-026,X-Clinic,"November 27, 2021",H,K,,S,page,True,U,C,https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Вероника Чер; November 27, 2021",9827b6f040ed46b4
+XCL-027,X-Clinic,"July 27, 2021",H,K,,S,page,False,U,"N,F,H,A",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Alex B; July 27, 2021",e6822c9505612adb
+XCL-028,X-Clinic,"November 8, 2022",H,K,,S,page,False,U,"C,H,P",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Константин; November 8, 2022",df34f6690cd4a9b8
+XCL-029,X-Clinic,"August 28, 2022",H,K,,DAY,page,False,SELF,"N,C,H,P",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Дарья Раскатова; August 28, 2022",e30c071b7657ca08
+XCL-030,X-Clinic,"June 5, 2024",H,K,,DAY,page,False,U,"C,F,I",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Sashulik; June 5, 2024",99e58691edb597a7
+XCL-031,X-Clinic,"September 18, 2024",H,K,,DAY,page,False,U,"N,I",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Анастасия Семенова; September 18, 2024",c5a35754e0723ad5
+XCL-032,X-Clinic,"February 22, 2022",H,K,,S,page,False,SELF,"C,P,T,R",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Анна Х; February 22, 2022",41ff5a4e9ee638e9
+XCL-033,X-Clinic,"November 15, 2024",R,K,,S,page,False,U,"C,F,H",https://yandex.com/maps/org/x_clinic/116606637132/reviews/,"Юлия Демидова; November 15, 2024",ca0048bf99326bfe
+FLI-001,Первая Линия,"August 21, 2025",R,K,,S,page,False,U,"N,C,F,H",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Виктор Окулов; August 21, 2025",adb2f0c1e0765c3d
+FLI-002,Первая Линия,"August 18, 2025",R,K,,S,page,False,U,"N,C,F,A",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Анна Шишкова; August 18, 2025",6b83a0ad5d03f52d
+FLI-003,Первая Линия,"September 8, 2025",R,K,,S,page,False,U,"N,C,F,H,P,T",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Влад Лапин; September 8, 2025",c16d475a7f6fd542
+FLI-004,Первая Линия,January 11,D,K,,S,page,False,U,"C,H,P,R",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,Юлия Семенова; January 11,a3c3b38cb3a363be
+FLI-005,Первая Линия,"June 1, 2025",H,K,,S,page,False,U,"N,F,H,P",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Olga Prokhorova; June 1, 2025",106666f2149e3bd1
+FLI-006,Первая Линия,"November 26, 2024",R,K,,S,page,False,U,"N,F,H,A,P",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"ольга янакова; November 26, 2024",1990dd59ffdbda28
+FLI-007,Первая Линия,"April 4, 2025",R,K,,DAY,page,False,U,"F,A,T",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Ольга Н; April 4, 2025",667bbc1822f9bcd0
+FLI-008,Первая Линия,"November 17, 2025",R,K,,S,page,False,U,C,https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Платежные С.; November 17, 2025",ee565c4de75a0965
+FLI-009,Первая Линия,"September 27, 2024",H,K,,S,page,False,U,"N,C,F,H,A",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Ирина Ирина; September 27, 2024",b0062d6d4d3d56ce
+FLI-010,Первая Линия,February 21,D,K,,S,page,False,U,"C,F,T",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,Ольга Масленникова; February 21,bad6080dc52e9130
+FLI-011,Первая Линия,"January 10, 2025",R,K,,S,page,False,U,"N,C,H",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Юлия; January 10, 2025",0e088f604aca129f
+FLI-012,Первая Линия,"February 5, 2025",R,K,,OTHER,page,False,U,"C,H",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Елена Короткова; February 5, 2025",f3f405e3eff547ba
+FLI-013,Первая Линия,"September 11, 2025",R,K,,S,page,False,U,"C,F,A,T",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"nail n.; September 11, 2025",1897d6bfc1a1bc48
+FLI-014,Первая Линия,"May 14, 2025",R,K,,S,page,False,SELF,"N,F,H,A,P,R",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Кристина М; May 14, 2025",893597503ba20238
+FLI-015,Первая Линия,"July 23, 2024",H,K,,S,page,False,U,"F,H",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Ольга Родина; July 23, 2024",c6c16cf0bf5bf201
+FLI-016,Первая Линия,"December 29, 2024",R,K,,S,page,False,U,,https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Елена Елена; December 29, 2024",3c43e9d1b26ed483
+FLI-017,Первая Линия,"November 18, 2025",R,K,,S,page,False,SELF,"N,F,R",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Нияз Галимов; November 18, 2025",4070e3a9de545668
+FLI-018,Первая Линия,"November 23, 2023",H,K,,S,page,False,U,"C,F,H,A,T",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Наташа; November 23, 2023",9de42e310686c1fe
+FLI-019,Первая Линия,"July 16, 2023",H,K,,DAY,page,False,U,"F,H,A,P",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Евгения Южина; July 16, 2023",3ef672013a0251fc
+FLI-020,Первая Линия,"August 17, 2024",H,K,,S,page,False,U,"C,F,A,P",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Виктор; August 17, 2024",e26abd1cfee92708
+FLI-021,Первая Линия,"October 4, 2025",R,K,,S,page,False,U,,https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Татьяна Дьяконова; October 4, 2025",c99ee1a19df32829
+FLI-022,Первая Линия,February 12,D,K,,OTHER,page,False,U,,https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,Сидякина Юлия; February 12,770ef505eea80b12
+FLI-023,Первая Линия,"January 20, 2024",H,K,,S,page,False,U,"N,F,H,A,P",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Елена; January 20, 2024",1a5ae2c95f346599
+FLI-024,Первая Линия,"August 30, 2025",R,X,Ироническая/неоднозначная подача; не использовать для платежеспособности,S,page,False,U,H,https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Сергей Громов; August 30, 2025",3f2daaed5ba2a0d1
+FLI-025,Первая Линия,"May 1, 2024",H,K,,S,page,False,U,"N,F",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Лена Д; May 1, 2024",21c25ab8b3e0bce3
+FLI-026,Первая Линия,"October 4, 2024",H,K,,S,page,False,U,"C,H,A",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Людмила Стахова; October 4, 2024",a9758442e319effe
+FLI-027,Первая Линия,"February 4, 2024",H,K,,S,page,False,U,"N,C,F,H,A,P,T",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Севиле Мустафаева; February 4, 2024",430e9c548d0f0b9e
+FLI-028,Первая Линия,"August 28, 2022",H,K,,S,page,False,U,"N,C,A,T",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Злата Першина; August 28, 2022",822cbec782729d60
+FLI-029,Первая Линия,"May 18, 2023",H,K,,S,page,False,U,P,https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"сергей г.; May 18, 2023",77415e7f48dc8e24
+FLI-030,Первая Линия,"November 28, 2024",R,K,,S,page,False,U,"N,C,F",https://yandex.com/maps/org/first_line_health_care_resort/117622928717/reviews/,"Елена Лукаш; November 28, 2024",0f720aed9dc53838
+HYG-001,Хюгге Кэмп,20.07.2026,R,K,,S,page,False,U,"N,F,T",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Светлана Змиевская; 20.07.2026,494f17d44b2f54f0
+HYG-002,Хюгге Кэмп,15.07.2026,R,K,,S,page,False,U,"C,F,H,T,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Александра Швеина; 15.07.2026,df2257075e54710a
+HYG-003,Хюгге Кэмп,27.06.2026,R,K,,S,page,False,U,"N,C,F,A,T",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Ульяна К.; 27.06.2026,16057da0d11886bc
+HYG-004,Хюгге Кэмп,27.06.2026,R,K,,S,page,False,U,"C,F,H",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Дина З.; 27.06.2026,052baa5f1cd86a5c
+HYG-005,Хюгге Кэмп,26.06.2026,R,K,,S,page,False,U,"N,C,A,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Евгения Олеговна; 26.06.2026,39f98348f21659fe
+HYG-006,Хюгге Кэмп,19.06.2026,R,K,,S,page,False,U,"N,C,F,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Анна; 19.06.2026,e3b3710972001124
+HYG-007,Хюгге Кэмп,16.06.2026,R,K,,S,page,False,U,"N,C,F,H,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Анна Орлова; 16.06.2026,294c83ec474f3ae6
+HYG-008,Хюгге Кэмп,15.06.2026,R,K,,S,page,False,U,"N,C,F,A,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Варвара Ф.; 15.06.2026,45930082f77df578
+HYG-009,Хюгге Кэмп,13.06.2026,R,K,,S,page,False,SELF,"C,H,A,R",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Полина Ф.; 13.06.2026,b577824c5cf07e48
+HYG-010,Хюгге Кэмп,12.06.2026,R,K,,S,page,False,U,"N,C,F,A,T,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Елена О.; 12.06.2026,af86dc7740413261
+HYG-011,Хюгге Кэмп,05.06.2026,R,K,,S,page,False,U,"N,C,A",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Полина Рагулина; 05.06.2026,e5655bc108de0732
+HYG-012,Хюгге Кэмп,22.05.2026,R,K,,S,page,False,U,"N,C,F,H,A,T",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Гера В.; 22.05.2026,89686067b4003cc1
+HYG-013,Хюгге Кэмп,21.05.2026,R,K,,S,page,False,U,"N,C,F,H,A,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,юлия шарпалова; 21.05.2026,cde31d596293d71a
+HYG-014,Хюгге Кэмп,20.05.2026,R,K,,S,page,False,U,"N,H,A,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Дарья Б.; 20.05.2026,e7c3fb596fac04e0
+HYG-015,Хюгге Кэмп,20.05.2026,R,K,,S,page,False,U,A,https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Екатерина В.; 20.05.2026,2741728723ae2410
+HYG-016,Хюгге Кэмп,20.05.2026,R,K,,S,page,False,U,"N,C,F,H,A,P,T,I",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Sea Y.; 20.05.2026,079e6ff4a740c938
+HYG-017,Хюгге Кэмп,10.05.2026,R,K,,S,page,False,U,"N,C",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Дана К.; 10.05.2026,3fc4eefa0af76e12
+HYG-018,Хюгге Кэмп,10.05.2026,R,K,,S,page,True,U,"N,C,F,H",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Игорь Гарда; 10.05.2026,aa4b29acb4923e4f
+HYG-019,Хюгге Кэмп,13.08.2025,R,K,,S,page,True,U,"N,C,F,A",https://glampingrf.ru/glampings/khyugge-kemp-kareliya-1845/,Максим Кондрин; 13.08.2025,6ecb394aa3f0c17f
+LES-001,Лес и Море,26.04.2026,R,K,,S,page,False,U,"N,P,T",https://glampingrf.ru/glampings/les-i-more-1759/,Надежда Б.; 26.04.2026,75ea7883389f5f0c
+LES-002,Лес и Море,25.08.2025,R,K,,S,page,False,U,"N,C,F,H,A,T",https://glampingrf.ru/glampings/les-i-more-1759/,Iva C.; 25.08.2025,2316f0c183a8a64e
+LES-003,Лес и Море,25.08.2025,R,K,,S,page,False,U,"N,C,F,H,A",https://glampingrf.ru/glampings/les-i-more-1759/,Анна Саитова; 25.08.2025,59dd3d62c6dbea33
+LES-004,Лес и Море,30.07.2025,R,K,,S,page,False,U,"N,H,I",https://glampingrf.ru/glampings/les-i-more-1759/,Анна; 30.07.2025,232959bc94bf7ce5
+LES-005,Лес и Море,28.07.2025,R,K,,S,page,False,U,"N,C,F,H,I",https://glampingrf.ru/glampings/les-i-more-1759/,Никита Никитов; 28.07.2025,b6e13498f01c512e
+LES-006,Лес и Море,22.07.2025,R,K,,S,page,False,U,"R,I",https://glampingrf.ru/glampings/les-i-more-1759/,DM; 22.07.2025,e7afbe5d83a85d98
+LES-007,Лес и Море,21.07.2025,R,K,,S,page,False,U,"N,C,F,H,I",https://glampingrf.ru/glampings/les-i-more-1759/,Артем Вертяев; 21.07.2025,6b709941a9750273
+LES-008,Лес и Море,21.07.2025,R,K,,S,page,False,U,"N,C,H",https://glampingrf.ru/glampings/les-i-more-1759/,Павел Гусаров; 21.07.2025,a66454b187827d91
+LES-009,Лес и Море,20.07.2025,R,K,,S,page,False,U,"C,F,H",https://glampingrf.ru/glampings/les-i-more-1759/,Saltanat Buranova; 20.07.2025,031d1f8214273c35
+LES-010,Лес и Море,19.07.2025,R,K,,S,page,False,U,"F,A",https://glampingrf.ru/glampings/les-i-more-1759/,Маргарита С; 19.07.2025,c6e92deb83bb5f69
+LES-011,Лес и Море,17.07.2025,R,K,,S,page,False,U,"N,C,F,H,A",https://glampingrf.ru/glampings/les-i-more-1759/,Евдокия Н.; 17.07.2025,cb9433fe5d5d2952
+LES-012,Лес и Море,17.07.2025,R,K,,S,page,False,U,"C,F,P",https://glampingrf.ru/glampings/les-i-more-1759/,Александр Бережной; 17.07.2025,7dacfb3bdc9ee5b2
+LES-013,Лес и Море,01.07.2025,R,K,,S,page,False,U,"F,P",https://glampingrf.ru/glampings/les-i-more-1759/,Антон У.; 01.07.2025,939ca37b1422d36d
+LES-014,Лес и Море,11.10.2024,H,K,,S,page,False,U,"H,P",https://glampingrf.ru/glampings/les-i-more-1759/,Даниил; 11.10.2024,54ba2c73d6b6fdab
+LES-015,Лес и Море,17.09.2024,H,K,,S,page,False,U,"N,C,F,A",https://glampingrf.ru/glampings/les-i-more-1759/,ОЛЬЯ Ч.; 17.09.2024,89b256448c450825
+LES-016,Лес и Море,08.09.2024,H,K,,S,page,False,SELF,"N,C,F,H,T",https://glampingrf.ru/glampings/les-i-more-1759/,Aldushenko Ksenia; 08.09.2024,87430340446ef9d8
+LES-017,Лес и Море,02.09.2024,H,K,,S,page,False,U,"N,C,F,H,A,P,T",https://glampingrf.ru/glampings/les-i-more-1759/,Никита В.; 02.09.2024,bc0849b2895c7b00
+LES-018,Лес и Море,22.08.2024,H,K,,S,page,False,U,"C,F,H,P",https://glampingrf.ru/glampings/les-i-more-1759/,Илья Перельман; 22.08.2024,fa39cb7b211b19ec
+LES-019,Лес и Море,21.08.2024,H,K,,S,page,False,U,,https://glampingrf.ru/glampings/les-i-more-1759/,Мария Шишова; 21.08.2024,ae00cbb4a1814cf8
+LES-020,Лес и Море,05.08.2024,H,K,,S,page,False,U,"N,C,F,H,A,T,I",https://glampingrf.ru/glampings/les-i-more-1759/,Лина; 05.08.2024,fa0d2c4b6c82934a
+LES-021,Лес и Море,05.08.2024,H,K,,S,page,False,U,"C,F,H,A",https://glampingrf.ru/glampings/les-i-more-1759/,Илья; 05.08.2024,45af9342b6980624
+ECO-001,Экоранчо,August 8,D,K,,S,indexed_extract,True,U,"N,C,F,H,A,I",https://yandex.com/maps/org/ecorancho/46337898584/reviews/,Нина Г.; August 8,e5e29d2bb8c903ae
+ECO-002,Экоранчо,May 8,D,K,,S,indexed_extract,True,U,"N,C,F,H",https://yandex.com/maps/org/ecorancho/46337898584/reviews/,Вика Андреева; May 8,43ff4cf30c4caf7a
+ECO-003,Экоранчо,May 13,D,K,,S,indexed_extract,True,U,"N,F",https://yandex.com/maps/org/ecorancho/46337898584/reviews/,Кирилл Козлов; May 13,40296a5fed9ebb1d
+ECO-004,Экоранчо,July 5,D,X,В извлечении соединены несовместимые фрагменты; исключено,S,indexed_extract,True,U,"C,F,P",https://yandex.com/maps/org/ecorancho/46337898584/reviews/,allkov9999; July 5,6da1c1f9c1fcde17
+ECO-005,Экоранчо,June 16,D,K,,S,indexed_extract,True,U,"C,F,H,A,P,T",https://yandex.com/maps/org/ecorancho/46337898584/reviews/,Ирина Сахарук; June 16,ab3e1fefead708be
+ECO-006,Экоранчо,May 11,D,K,,S,indexed_extract,True,SELF,"C,F,H,T,R",https://yandex.com/maps/org/ecorancho/46337898584/reviews/,Ri; May 11,c479165d0dd96cb6
+ECO-007,Экоранчо,"June 24, 2025",R,K,,S,indexed_extract,True,U,"C,F",https://yandex.com/maps/org/ecorancho/46337898584/reviews/,"Анастасия Аверина; June 24, 2025",54e93677eec466cc
+ALT-001,Алтунъ,May 11,D,K,,S,indexed_extract,True,SELF,"N,C,F,H,A,T,R,I",https://yandex.com/maps/org/imeniye_altun_korpus_dom_nad_ozerom/1193231437/reviews/,Дмитрий; May 11,5a3f5aac40b7f54f
+ALT-002,Алтунъ,"August 27, 2025",R,K,,S,indexed_extract,True,U,"F,H,A,P",https://yandex.com/maps/org/imenie_altun/1031558710/reviews/,"Татьяна Илюхина; August 27, 2025",d2d4f0445e5bf884
+ALT-003,Алтунъ,March 23,D,K,,S,indexed_extract,True,SELF,"N,C,F,R",https://yandex.com/maps/org/imenie_altun/1031558710/reviews/,Михаил Лукьяненко; March 23,908af2524f88ff79
+ALT-004,Алтунъ,"July 30, 2025",R,K,,S,indexed_extract,True,U,"C,H",https://yandex.com/maps/org/imenie_altun/1031558710/reviews/,"Наталья Че; July 30, 2025",a6b98a6734014510
+TRI-001,Тригорская 1,January 2,D,K,,S,indexed_extract,True,U,T,https://yandex.com/maps/org/gostevaya_usadba_trigorskaya_1/1275371216/reviews/,Олег Б.; January 2,a6b673c7cd6d157f
+TRI-002,Тригорская 1,"November 4, 2025",R,K,,S,indexed_extract,True,U,"C,F,P,T",https://yandex.com/maps/org/gostevaya_usadba_trigorskaya_1/1275371216/reviews/,"Светлана Прудникова; November 4, 2025",b1bc355565bc9f27
+TRI-003,Тригорская 1,June 28,D,K,,S,indexed_extract,True,U,"C,F,H,T",https://yandex.com/maps/org/gostevaya_usadba_trigorskaya_1/1275371216/reviews/,Владимир Ш.; June 28,be6ed8e9e56b8e67
+TRI-004,Тригорская 1,"August 25, 2025",R,K,,S,indexed_extract,True,U,"N,C,F,H",https://yandex.com/maps/org/gostevaya_usadba_trigorskaya_1/1275371216/reviews/,"Татьяна; August 25, 2025",24a6afd5343c3c69
+TRI-005,Тригорская 1,"January 7, 2025",R,K,,S,indexed_extract,True,U,"N,C,F",https://yandex.com/maps/org/gostevaya_usadba_trigorskaya_1/1275371216/reviews/,"Георгий; January 7, 2025",b4c30094050939d7
+TRI-006,Тригорская 1,"August 9, 2024",H,K,,S,indexed_extract,True,U,"C,F,H,A",https://yandex.com/maps/org/gostevaya_usadba_trigorskaya_1/1275371216/reviews/,"Сергей Денисов; August 9, 2024",171cb73379d0883a
+TRI-007,Тригорская 1,July 12,D,K,,S,indexed_extract,True,U,"C,F,I",https://yandex.com/maps/org/gostevaya_usadba_trigorskaya_1/1275371216/reviews/,Konstantin Sazonov; July 12,28264fa9bf3dc137
+TRI-008,Тригорская 1,"August 6, 2025",R,K,,S,indexed_extract,True,U,"C,F,H,P",https://yandex.com/maps/org/gostevaya_usadba_trigorskaya_1/1275371216/reviews/,"Елена Ищенко; August 6, 2025",172e8a8a5f4319ff
